@@ -1,6 +1,6 @@
-# Logic Market Headmap
+# Logic Market Heatmap
 
-Shareable working project for Logic's two market headmaps.
+Shareable working project for Logic's two market heatmaps.
 
 Open `index.html` for the two-tab view:
 
@@ -11,7 +11,7 @@ The two maps are intentionally separate. Counts are corpus signals, not market-s
 
 ## Project structure
 
-Each arm contains its executive summary, interactive report, topic CSVs, language/claims material where available, and taxonomy/method notes.
+Each arm's interactive report is its tab landing page. Supporting summaries, topic CSVs, language/claims material, and taxonomy/method notes remain available in the respective folder.
 
 ## Review workflow
 

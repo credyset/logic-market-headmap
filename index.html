@@ -3,27 +3,22 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Logic Market Headmap</title>
+  <title>Logic Market Heatmap</title>
   <style>
     :root{--ink:#07152e;--lime:#e0fd2c;--bg:#f5f5f3;--muted:#596579;--line:#d9dfeb;--white:#fff}
     *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
-    header{background:var(--ink);color:var(--white);padding:56px 24px 42px}header>div,main{max-width:1100px;margin:auto}h1{font-size:clamp(34px,5vw,58px);line-height:1.05;margin:16px 0 12px}h2{font-size:28px;margin:0 0 10px}p{color:var(--muted);max-width:780px}.hero-copy{color:#d9e0ed;max-width:780px}.eyebrow{display:inline-block;background:var(--lime);color:var(--ink);font-weight:800;padding:4px 10px;font-size:12px;letter-spacing:.08em}
-    main{padding:30px 24px 64px}.tabs{display:flex;gap:10px;border-bottom:1px solid var(--line);margin-bottom:28px}.tab{border:0;background:transparent;padding:13px 22px;font:inherit;font-weight:750;color:var(--muted);cursor:pointer;border-bottom:3px solid transparent}.tab.active{color:var(--ink);border-color:var(--lime)}.panel{display:none}.panel.active{display:block}.card-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin:22px 0}.card{background:var(--white);border:1px solid var(--line);padding:20px;border-radius:10px}.card h3{margin:0 0 6px;font-size:17px}.card p{font-size:14px;margin:0 0 14px}.links{display:flex;flex-wrap:wrap;gap:10px}.links a{display:inline-block;background:var(--ink);color:var(--white);text-decoration:none;padding:9px 13px;border-radius:6px;font-size:14px}.links a:hover{background:#173668}.note{border-left:4px solid var(--lime);background:#fffde8;padding:14px 16px;margin:20px 0}.meta{font-size:13px;color:var(--muted)}footer{max-width:1100px;margin:0 auto;padding:0 24px 30px;font-size:13px;color:var(--muted)}
+    main{padding:30px 24px 64px}.tabs{display:flex;gap:10px;border-bottom:1px solid var(--line);margin-bottom:28px}.tab{border:0;background:transparent;padding:13px 22px;font:inherit;font-weight:750;color:var(--muted);cursor:pointer;border-bottom:3px solid transparent}.tab.active{color:var(--ink);border-color:var(--lime)}.panel{display:none}.panel.active{display:block}.report-frame{width:100%;height:900px;border:1px solid var(--line);border-radius:10px;background:var(--white)}.note{border-left:4px solid var(--lime);background:#fffde8;padding:14px 16px;margin:20px 0}.meta{font-size:13px;color:var(--muted)}footer{max-width:1100px;margin:0 auto;padding:0 24px 30px;font-size:13px;color:var(--muted)}
   </style>
 </head>
 <body>
-  <header><div><span class="eyebrow">LOGIC INC</span><h1>Market headmap</h1><p class="hero-copy">One shared review surface for two distinct motions: Logic Agency operations and Logic Pac packaging.</p></div></header>
+  <header><div><span class="eyebrow">LOGIC INC</span><h1>Market Heatmap</h1><p class="hero-copy">One shared review surface for two distinct motions: Logic Agency operations and Logic Pac packaging.</p></div></header>
   <main>
-    <nav class="tabs" aria-label="Headmap sections"><button class="tab active" data-tab="agency">Agency</button><button class="tab" data-tab="pac">Pac</button></nav>
+    <nav class="tabs" aria-label="Heatmap sections"><button class="tab active" data-tab="agency">Agency</button><button class="tab" data-tab="pac">Pac</button></nav>
     <section class="panel active" id="agency">
-      <h2>Logic Agency</h2><p>Operations-led evidence for scaling consumer brands: supplier management, manufacturing, inventory, channel execution, and retail readiness.</p>
-      <div class="note"><strong>Readout:</strong> The Agency map focuses on the operating gap between winning retail and staying operationally healthy.</div>
-      <div class="card-grid"><div class="card"><h3>Executive summary</h3><p>Key themes, commercial read, and evidence notes.</p><div class="links"><a href="agency/agency-executive-summary.md">Open summary</a></div></div><div class="card"><h3>Interactive report</h3><p>Topic distribution and Agency evidence overview.</p><div class="links"><a href="agency/agency-headmap-report.html">Open report</a></div></div><div class="card"><h3>Language map</h3><p>Operator vocabulary and buyer pain language.</p><div class="links"><a href="agency/agency-market-language-map.md">Open language map</a></div></div><div class="card"><h3>Data files</h3><p>Topics, trends, co-occurrences, roles, and claims.</p><div class="links"><a href="agency/agency-topic-distribution.csv">Topics</a><a href="agency/agency-topic-trends.csv">Trends</a><a href="agency/agency-claims-and-quotes.csv">Claims</a></div></div></div>
+      <iframe class="report-frame" title="Logic Agency Heatmap" src="agency/agency-headmap-report.html"></iframe>
     </section>
     <section class="panel" id="pac">
-      <h2>Logic Pac</h2><p>Packaging-led evidence across design, brand identity, materials, sustainability, manufacturing, retail performance, product categories, and capital considerations.</p>
-      <div class="note"><strong>Readout:</strong> Pac evidence is intentionally packaging-first. Direct fundraising evidence is thin and remains an explicit research gap.</div>
-      <div class="card-grid"><div class="card"><h3>Executive summary</h3><p>Five-lens readout: manufacturing, design, product categories, retail success, and fundraising.</p><div class="links"><a href="pac/pac-executive-summary.md">Open summary</a></div></div><div class="card"><h3>Interactive report</h3><p>Pac themes and evidence boundaries.</p><div class="links"><a href="pac/pac-headmap-report.html">Open report</a></div></div><div class="card"><h3>Fundraising pass</h3><p>Packaging-capital links and remaining evidence gaps.</p><div class="links"><a href="pac/pac-fundraising-evidence-pass.md">Open pass</a></div></div><div class="card"><h3>Data files</h3><p>Topics, trends, co-occurrences, and source-role analysis.</p><div class="links"><a href="pac/pac-topic-distribution.csv">Topics</a><a href="pac/pac-topic-trends.csv">Trends</a><a href="pac/pac-topic-cooccurrence.csv">Co-occurrence</a></div></div></div>
+      <iframe class="report-frame" title="Logic Pac Heatmap" src="pac/pac-headmap-report.html"></iframe>
     </section>
   </main>
   <footer>Working research project · Counts are corpus signals, not market-size estimates.</footer>

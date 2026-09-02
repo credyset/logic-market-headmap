@@ -1,4 +1,4 @@
-# Logic Agency Market Headmap — Executive Summary
+# Logic Agency Market Heatmap — Executive Summary
 
 **Date:** 2026-09-01  
 **Scope:** 6,854 classified chunks from 332 external Startup CPG sources; 17 retained Agency-relevant topics. No Logic first-party material is included.

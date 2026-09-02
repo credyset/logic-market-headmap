@@ -1,4 +1,4 @@
-# Logic Pac Market Headmap — Executive Summary
+# Logic Pac Market Heatmap — Executive Summary
 
 **Date:** 2026-09-01  
 **Scope:** 103 clean analytical chunks from 20 external packaging/beauty sources collected for the Pac-specific pass. A malformed Zenpack fetch (9 chunks) was excluded. A separate 199-chunk source-balanced discovery diagnostic now includes 96 rehydrated Startup CPG packaging chunks, but those legacy chunks are used only to test coverage—not to inflate the Pac theme counts below.
