@@ -1,0 +1,93 @@
+{
+  "scope": "Pac-specific clean source set",
+  "method": "Clean Pac-specific external source set for thematic aggregation; malformed fetches excluded. A separate source-balanced 199-chunk diagnostic was used for coverage testing and is not represented in these counts. Labels are reviewed thematic groupings anchored to observed source language.",
+  "eligible_chunks": 103,
+  "source_count": 20,
+  "topics": [
+    {
+      "label": "Sustainable materials and lifecycle tradeoffs",
+      "parent_topic": "Materials, sustainability, and end-of-life",
+      "keywords": [
+        "sustain",
+        "material",
+        "plastic",
+        "recycl",
+        "carbon",
+        "biodegrad",
+        "environment",
+        "waste"
+      ]
+    },
+    {
+      "label": "Circularity, refill, reuse, and recovery systems",
+      "parent_topic": "Circular systems and recovery",
+      "keywords": [
+        "refill",
+        "reuse",
+        "return",
+        "recovery",
+        "circular",
+        "recycle",
+        "collection"
+      ]
+    },
+    {
+      "label": "Packaging design, brand identity, and unboxing",
+      "parent_topic": "Design, brand, and consumer experience",
+      "keywords": [
+        "design",
+        "brand",
+        "unbox",
+        "aesthetic",
+        "visual",
+        "luxury",
+        "identity",
+        "story"
+      ]
+    },
+    {
+      "label": "Manufacturing, sourcing, cost, and scale",
+      "parent_topic": "Manufacturing and commercial execution",
+      "keywords": [
+        "manufactur",
+        "supplier",
+        "cost",
+        "price",
+        "budget",
+        "scale",
+        "moq",
+        "production",
+        "sourc"
+      ]
+    },
+    {
+      "label": "Retail fit, category cues, and consumer conversion",
+      "parent_topic": "Retail and consumer performance",
+      "keywords": [
+        "retail",
+        "shelf",
+        "consumer",
+        "category",
+        "purchase",
+        "conversion",
+        "premium",
+        "skincare",
+        "beauty"
+      ]
+    },
+    {
+      "label": "Claims, regulation, and packaging compliance",
+      "parent_topic": "Claims and compliance",
+      "keywords": [
+        "regulat",
+        "claim",
+        "greenwash",
+        "fee",
+        "policy",
+        "compliance",
+        "certif",
+        "epr"
+      ]
+    }
+  ]
+}
