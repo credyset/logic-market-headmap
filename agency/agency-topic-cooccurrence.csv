@@ -1,0 +1,61 @@
+topic_a,topic_b,co_occurrences,topic_a_parent,topic_b_parent
+"Retail buyer readiness, category fit, and expectations","Wholesale expansion, buyer relationships, and in-store growth",1961,Retail and distribution operations,Retail and distribution operations
+"In-store demos, promotions, and retail velocity","Retail buyer readiness, category fit, and expectations",1944,Retail and distribution operations,Retail and distribution operations
+"In-store demos, promotions, and retail velocity","Wholesale expansion, buyer relationships, and in-store growth",1712,Retail and distribution operations,Retail and distribution operations
+"Amazon, DTC, and retail channel economics","Wholesale expansion, buyer relationships, and in-store growth",1709,Channel strategy,Retail and distribution operations
+Retailer and distributor onboarding and category management,"Wholesale expansion, buyer relationships, and in-store growth",1647,Retail and distribution operations,Retail and distribution operations
+"Retail buyer readiness, category fit, and expectations",Retailer and distributor onboarding and category management,1384,Retail and distribution operations,Retail and distribution operations
+Regional retail expansion and local-to-national growth,"Wholesale expansion, buyer relationships, and in-store growth",1381,Retail and distribution operations,Retail and distribution operations
+"In-store demos, promotions, and retail velocity",Retailer and distributor onboarding and category management,1344,Retail and distribution operations,Retail and distribution operations
+"Amazon, DTC, and retail channel economics",Retailer and distributor onboarding and category management,1320,Channel strategy,Retail and distribution operations
+"Amazon, DTC, and retail channel economics","Retail buyer readiness, category fit, and expectations",1287,Channel strategy,Retail and distribution operations
+Regional retail expansion and local-to-national growth,"Retail buyer readiness, category fit, and expectations",1254,Retail and distribution operations,Retail and distribution operations
+"Co-manufacturer selection, scale-up, process control, and IP","Retail buyer readiness, category fit, and expectations",1215,Manufacturing and supplier management,Retail and distribution operations
+"Amazon, DTC, and retail channel economics","In-store demos, promotions, and retail velocity",1202,Channel strategy,Retail and distribution operations
+Regional retail expansion and local-to-national growth,Retailer and distributor onboarding and category management,1064,Retail and distribution operations,Retail and distribution operations
+"In-store demos, promotions, and retail velocity",Regional retail expansion and local-to-national growth,987,Retail and distribution operations,Retail and distribution operations
+Broker selection and channel-sales management,"Wholesale expansion, buyer relationships, and in-store growth",979,Retail and distribution operations,Retail and distribution operations
+"Amazon, DTC, and retail channel economics",Regional retail expansion and local-to-national growth,756,Channel strategy,Retail and distribution operations
+Broker selection and channel-sales management,"Retail buyer readiness, category fit, and expectations",703,Retail and distribution operations,Retail and distribution operations
+"Co-manufacturer selection, scale-up, process control, and IP","Wholesale expansion, buyer relationships, and in-store growth",699,Manufacturing and supplier management,Retail and distribution operations
+"Co-manufacturer selection, scale-up, process control, and IP",Product development and commercialization support,688,Manufacturing and supplier management,Manufacturing and supplier management
+"Amazon, DTC, and retail channel economics",Broker selection and channel-sales management,684,Channel strategy,Retail and distribution operations
+"Amazon, DTC, and retail channel economics",Inventory planning and demand forecasting,669,Channel strategy,Financial and operational control
+Distributor and DSD contracts and channel execution,"Wholesale expansion, buyer relationships, and in-store growth",668,Retail and distribution operations,Retail and distribution operations
+Inventory planning and demand forecasting,"Wholesale expansion, buyer relationships, and in-store growth",649,Financial and operational control,Retail and distribution operations
+Broker selection and channel-sales management,"In-store demos, promotions, and retail velocity",637,Retail and distribution operations,Retail and distribution operations
+"Co-manufacturer selection, scale-up, process control, and IP","In-store demos, promotions, and retail velocity",632,Manufacturing and supplier management,Retail and distribution operations
+"Retail buyer readiness, category fit, and expectations",Sustainable packaging materials and tradeoffs,630,Retail and distribution operations,Packaging and compliance
+Broker selection and channel-sales management,Retailer and distributor onboarding and category management,623,Retail and distribution operations,Retail and distribution operations
+Product development and commercialization support,"Retail buyer readiness, category fit, and expectations",611,Manufacturing and supplier management,Retail and distribution operations
+"Amazon, DTC, and retail channel economics",Distributor and DSD contracts and channel execution,572,Channel strategy,Retail and distribution operations
+"Co-manufacturer selection, scale-up, process control, and IP","Product, packaging, labeling, and certification requirements",559,Manufacturing and supplier management,Packaging and compliance
+"Product, packaging, labeling, and certification requirements","Retail buyer readiness, category fit, and expectations",541,Packaging and compliance,Retail and distribution operations
+Distributor and DSD contracts and channel execution,Retailer and distributor onboarding and category management,530,Retail and distribution operations,Retail and distribution operations
+"Co-manufacturer selection, scale-up, process control, and IP",Retailer and distributor onboarding and category management,524,Manufacturing and supplier management,Retail and distribution operations
+Broker selection and channel-sales management,"Co-manufacturer and distributor contracts, liability, and operational risk",516,Retail and distribution operations,Manufacturing and supplier management
+"Co-manufacturer selection, scale-up, process control, and IP",Regional retail expansion and local-to-national growth,497,Manufacturing and supplier management,Retail and distribution operations
+"Amazon, DTC, and retail channel economics","Co-manufacturer selection, scale-up, process control, and IP",494,Channel strategy,Manufacturing and supplier management
+Broker selection and channel-sales management,Distributor and DSD contracts and channel execution,487,Retail and distribution operations,Retail and distribution operations
+Inventory planning and demand forecasting,Retailer and distributor onboarding and category management,472,Financial and operational control,Retail and distribution operations
+"Co-manufacturer selection, scale-up, process control, and IP",Sustainable packaging materials and tradeoffs,429,Manufacturing and supplier management,Packaging and compliance
+"Gross margin, unit economics, and financial discipline","Wholesale expansion, buyer relationships, and in-store growth",419,Financial and operational control,Retail and distribution operations
+"Amazon, DTC, and retail channel economics","Gross margin, unit economics, and financial discipline",418,Channel strategy,Financial and operational control
+"Co-manufacturer and distributor contracts, liability, and operational risk","Wholesale expansion, buyer relationships, and in-store growth",411,Manufacturing and supplier management,Retail and distribution operations
+Broker selection and channel-sales management,Regional retail expansion and local-to-national growth,398,Retail and distribution operations,Retail and distribution operations
+Distributor and DSD contracts and channel execution,"Retail buyer readiness, category fit, and expectations",392,Retail and distribution operations,Retail and distribution operations
+Distributor and DSD contracts and channel execution,"In-store demos, promotions, and retail velocity",381,Retail and distribution operations,Retail and distribution operations
+Broker selection and channel-sales management,"Gross margin, unit economics, and financial discipline",366,Retail and distribution operations,Financial and operational control
+"Co-manufacturer and distributor contracts, liability, and operational risk","Gross margin, unit economics, and financial discipline",364,Manufacturing and supplier management,Financial and operational control
+"Gross margin, unit economics, and financial discipline",Inventory planning and demand forecasting,363,Financial and operational control,Financial and operational control
+"Co-manufacturer and distributor contracts, liability, and operational risk","Retail buyer readiness, category fit, and expectations",362,Manufacturing and supplier management,Retail and distribution operations
+"Co-manufacturer and distributor contracts, liability, and operational risk","Co-manufacturer selection, scale-up, process control, and IP",353,Manufacturing and supplier management,Manufacturing and supplier management
+"Co-manufacturer and distributor contracts, liability, and operational risk",Distributor and DSD contracts and channel execution,338,Manufacturing and supplier management,Retail and distribution operations
+"Co-manufacturer selection, scale-up, process control, and IP",Inventory planning and demand forecasting,332,Manufacturing and supplier management,Financial and operational control
+"Co-manufacturer and distributor contracts, liability, and operational risk",Inventory planning and demand forecasting,324,Manufacturing and supplier management,Financial and operational control
+"Amazon, DTC, and retail channel economics","Co-manufacturer and distributor contracts, liability, and operational risk",311,Channel strategy,Manufacturing and supplier management
+Product development and commercialization support,"Wholesale expansion, buyer relationships, and in-store growth",308,Manufacturing and supplier management,Retail and distribution operations
+Distributor and DSD contracts and channel execution,Regional retail expansion and local-to-national growth,305,Retail and distribution operations,Retail and distribution operations
+Inventory planning and demand forecasting,"Retail buyer readiness, category fit, and expectations",304,Financial and operational control,Retail and distribution operations
+"Product, packaging, labeling, and certification requirements",Sustainable packaging materials and tradeoffs,294,Packaging and compliance,Packaging and compliance
+Broker selection and channel-sales management,Inventory planning and demand forecasting,280,Retail and distribution operations,Financial and operational control

@@ -1,0 +1,16 @@
+topic_a,topic_b,co_occurrences,topic_a_parent,topic_b_parent
+"Packaging design, brand identity, and unboxing","Retail fit, category cues, and consumer conversion",83,"Design, brand, and consumer experience",Retail and consumer performance
+"Retail fit, category cues, and consumer conversion",Sustainable materials and lifecycle tradeoffs,77,Retail and consumer performance,"Materials, sustainability, and end-of-life"
+"Packaging design, brand identity, and unboxing",Sustainable materials and lifecycle tradeoffs,76,"Design, brand, and consumer experience","Materials, sustainability, and end-of-life"
+"Circularity, refill, reuse, and recovery systems",Sustainable materials and lifecycle tradeoffs,40,Circular systems and recovery,"Materials, sustainability, and end-of-life"
+"Circularity, refill, reuse, and recovery systems","Retail fit, category cues, and consumer conversion",38,Circular systems and recovery,Retail and consumer performance
+"Circularity, refill, reuse, and recovery systems","Packaging design, brand identity, and unboxing",37,Circular systems and recovery,"Design, brand, and consumer experience"
+"Claims, regulation, and packaging compliance","Retail fit, category cues, and consumer conversion",32,Claims and compliance,Retail and consumer performance
+"Manufacturing, sourcing, cost, and scale","Packaging design, brand identity, and unboxing",28,Manufacturing and commercial execution,"Design, brand, and consumer experience"
+"Claims, regulation, and packaging compliance","Packaging design, brand identity, and unboxing",27,Claims and compliance,"Design, brand, and consumer experience"
+"Manufacturing, sourcing, cost, and scale","Retail fit, category cues, and consumer conversion",26,Manufacturing and commercial execution,Retail and consumer performance
+"Claims, regulation, and packaging compliance",Sustainable materials and lifecycle tradeoffs,26,Claims and compliance,"Materials, sustainability, and end-of-life"
+"Manufacturing, sourcing, cost, and scale",Sustainable materials and lifecycle tradeoffs,24,Manufacturing and commercial execution,"Materials, sustainability, and end-of-life"
+"Claims, regulation, and packaging compliance","Manufacturing, sourcing, cost, and scale",6,Claims and compliance,Manufacturing and commercial execution
+"Circularity, refill, reuse, and recovery systems","Manufacturing, sourcing, cost, and scale",5,Circular systems and recovery,Manufacturing and commercial execution
+"Circularity, refill, reuse, and recovery systems","Claims, regulation, and packaging compliance",5,Circular systems and recovery,Claims and compliance
