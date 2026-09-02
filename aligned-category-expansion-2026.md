@@ -40,3 +40,29 @@ This is an additive evidence layer. It does not alter the historical topic-frequ
 ## Evidence governance
 
 Direct podcast quotations appear in `verified-podcast-quotes.csv` only when the speaker, company, job title, podcast, episode title, and direct episode URL are verified. Other source material informs themes and editorial paraphrases but is not represented as a verbatim attributed quote.
+
+## ICP-aligned research pass: beauty, hardware, and premium beverage
+
+### Beauty and fragrance
+
+Dossier provides unusually strong evidence across both Logic arms. Standardizing the bottle, pump, and cap reduced purchasing complexity and supported unit economics. The same brand later discovered that packaging optimized for DTC did not communicate correctly on a retail shelf, creating rushed relabeling and accumulated “design debt.” Wholesale also required different broker, 3PL, inventory-planning, payment-term, and working-capital capabilities.
+
+**Agency implication:** DTC-to-retail expansion is a change in operating model, not merely a new sales channel.
+
+**Pac implication:** packaging systems should anticipate channel context early. A coherent DTC system can still fail retail navigation, product identification, merchandising, or compliance.
+
+### Consumer hardware and babytech
+
+The TRADEOFFS transcript strengthens the case for Logic Agency in hardware. Consumer-hardware brands often commit inventory six to twelve months ahead, rely on supplier relationships they do not fully control, and discover certification requirements late enough to force rework. Baby wearables add another boundary: product claims can move a device into medical-device oversight, turning messaging decisions into testing, supply-chain, retail, and recall exposure.
+
+**Agency implication:** compliance mapping, supplier resilience, inventory commitments, and claims review belong upstream of launch readiness.
+
+**Pac implication:** protective packaging, labeling, claims hierarchy, instructions, and retail presentation should be developed with the regulatory and product-risk system.
+
+### Wine and spirits
+
+Juliet and ecoSPIRITS show two packaging-led growth paths. Juliet used a premium alternative format to challenge boxed-wine perceptions, but still had to prove retail success before distributor adoption. ecoSPIRITS treats reuse as a distributed operating system requiring bulk movement, local filling, tracked containers, sanitation, reverse logistics, venue participation, and consumer communication.
+
+**Agency implication:** innovative formats create new operating networks; distribution, compliance, cash, data, and reverse logistics must be designed alongside the package.
+
+**Pac implication:** structural innovation can change shelf differentiation, transportation economics, sustainability performance, and the brand story simultaneously.
