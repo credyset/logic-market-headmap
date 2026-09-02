@@ -13,6 +13,8 @@ The two maps are intentionally separate. Counts are corpus signals, not market-s
 
 Each arm's interactive report is its tab landing page. Supporting summaries, topic CSVs, language/claims material, and taxonomy/method notes remain available in the respective folder.
 
+The additive category layer now covers luxury goods, jewelry, elevated DTC packaging, influencer/PR kits, consumer electronics, headphones, babytech, wine and spirits, and beauty. See `aligned-category-expansion-2026.md` for the current synthesis and remaining evidence gaps.
+
 ## Review workflow
 
 Use the tabs and linked files as the shared review surface. Add feedback through GitHub Issues or pull requests; keep Agency and Pac changes in their respective folders.
