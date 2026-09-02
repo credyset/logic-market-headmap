@@ -16,3 +16,7 @@ Each arm's interactive report is its tab landing page. Supporting summaries, top
 ## Review workflow
 
 Use the tabs and linked files as the shared review surface. Add feedback through GitHub Issues or pull requests; keep Agency and Pac changes in their respective folders.
+
+## Evidence standards
+
+Podcast quotations must satisfy the complete attribution standard in `quote-attribution-standard.md`. Unverified excerpts are retained for research, while outreach one-liners are published only as editorial paraphrases in `outreach-painpoint-insights.csv`.
